@@ -52,7 +52,7 @@ const User = () => {
           // className="d-none d-sm-inline-block btn btn-primary"
           className="btn btn-success p-2 m-3 col-xl-2 col-sm-2"
         >
-          <i class="fa-solid fa-circle-plus p-2"></i>Create User
+          <i className="fa-solid fa-circle-plus p-2"></i>Create User
         </Link>
 
         {data.loading ? (

@@ -84,11 +84,11 @@ const ViewUser = () => {
                 </tbody>
               </table>
               <Link className="btn btn-danger m-3" to={"/"}>
-                <i class="fa-solid fa-house p-2"></i>Back to Home
+                <i className="fa-solid fa-house p-2"></i>Back to Home
               </Link>
               <Link to="/create-user" className="btn btn-success m-3">
                 
-                <i class="fa-solid fa-circle-plus p-2"></i>Create User
+                <i className="fa-solid fa-circle-plus p-2"></i>Create User
               </Link>
             </div>
           )}
